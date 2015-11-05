@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/shadow_bottom.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/shadow_bottom.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/not_compatible.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/not_compatible.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_albums_songs.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_albums_songs.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/file_picker_activity.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/file_picker_activity.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_information.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_information.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/main.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/fragment_advanced_options.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/fragment_advanced_options.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/expandable_jump_to_time.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/expandable_jump_to_time.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_album.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_album.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/directory_browser.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/directory_browser.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/browser_item_separator.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/browser_item_separator.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_lines.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/native_crash.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/native_crash.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_media_switcher_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_media_switcher_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player_hud.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player_hud.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/info_dialog.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/info_dialog.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_playlist_item_drag_shadow.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_playlist_item_drag_shadow.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player_remote.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player_remote.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player_action_bar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player_action_bar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/sidebar_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/sidebar_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/file_picker_fragment.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/file_picker_fragment.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/expandable_time_sleep.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/expandable_time_sleep.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_playlist_tips.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_playlist_tips.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/browser_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/browser_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player_tips.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player_tips.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/dialog_playlist.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/dialog_playlist.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_search_view.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/browser.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/browser.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_dialog_edittext.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_dialog_edittext.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_recyclerview.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/widget_b.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/widget_b.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_widget_checkbox.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_widget_checkbox.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/search.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/search.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/widget_w.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/widget_w.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/toolbar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/jump_to_time.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/jump_to_time.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/list_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/video_list_card.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/video_list_card.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/mrl_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/mrl_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/equalizer.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/equalizer.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preferences_activity.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/vanilla/res/layout/preferences_activity.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/tab_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/tab_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_list_fragment.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_category.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_category.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/video_grid_card.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/video_grid_card.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/expandable_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/expandable_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_player.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_player.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_browser.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_browser.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/player_remote_control.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/player_remote_control.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/dialog_playback_speed.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/dialog_playback_speed.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/equalizer_bar.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/equalizer_bar.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_playlist_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_playlist_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/debug_log_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/debug_log_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_media.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/dialog_time_picker.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/dialog_time_picker.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/history_list.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/history_list.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_navigation_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_browser_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_browser_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/debug_log.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/debug_log.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_player_tips.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_player_tips.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/notification_media_action.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference_widget_switch_compat.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference_widget_switch_compat.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/about_main.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/about_main.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/directory_view_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/directory_view_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/shadow_top.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/shadow_top.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/dialog_select_chapter.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/dialog_select_chapter.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/audio_browser_separator.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/audio_browser_separator.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/list_header.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/list_header.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/about.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/video_grid.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/video_grid.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/design/23.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/dialog_select_chapter_item.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/dialog_select_chapter_item.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/about_licence.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/about_licence.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/mrl_panel.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/mrl_panel.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/media_info.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/media_info.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/preference.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v7/23.1.0/res/layout/preference.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/vanillaX86/debug/layout/secondary.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout/secondary.xml"
+    }
+]

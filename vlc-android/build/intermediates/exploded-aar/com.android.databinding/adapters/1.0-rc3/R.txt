@@ -1,0 +1,3 @@
+int id dataBinding 0x7f020000
+int id onAttachStateChangeListener 0x7f020001
+int id textWatcher 0x7f020002

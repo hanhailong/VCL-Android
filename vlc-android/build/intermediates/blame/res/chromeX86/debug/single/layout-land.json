@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/layout-land/media_info.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout-land/media_info.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/layout-land/equalizer.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/layout-land/equalizer.xml"
+    }
+]

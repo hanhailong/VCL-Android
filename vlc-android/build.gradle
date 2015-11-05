@@ -1,0 +1,194 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.android.databinding'
+
+android {
+    compileSdkVersion rootProject.ext.compileSdkVersion
+    buildToolsVersion rootProject.ext.buildToolsVersion
+
+    flavorDimensions "target", "abi"
+
+    lintOptions {
+        abortOnError false
+        disable 'MissingTranslation', 'ExtraTranslation'
+    }
+
+    defaultConfig {
+        applicationId "org.videolan.vlc"
+
+    }
+
+    signingConfigs {
+
+        release {
+            /*
+            To set this properties, create file gradle.properties with these 3 props.
+            e.g.
+            keyStoreFile=/home/<username>/.android/debug.keystore
+            storealias=androiddebugkey
+            storepwd=android
+             */
+            storeFile file(keyStoreFile)
+            keyAlias storealias
+            if (System.getenv('PASSWORD_KEYSTORE') != null && !System.getenv('PASSWORD_KEYSTORE').isEmpty()){
+                storePassword = System.getenv('PASSWORD_KEYSTORE')
+                keyPassword = System.getenv('PASSWORD_KEYSTORE')
+            } else {
+                storePassword storepwd
+                keyPassword storepwd
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+            minifyEnabled true
+            shrinkResources false
+            proguardFile 'proguard.cfg'
+        }
+        debug {
+            applicationIdSuffix ".debug"
+            jniDebuggable true
+        }
+    }
+    productFlavors {
+        vanilla {
+            dimension "target"
+            versionCode = 0
+            buildConfigField "boolean", "tv", "false"
+        }
+        tv {
+            minSdkVersion 17
+            dimension "target"
+            versionCode = 1
+            buildConfigField "boolean", "tv", "true"
+        }
+        chrome {
+            minSdkVersion 19
+            dimension "target"
+            versionCode = 2
+            buildConfigField "boolean", "tv", "false"
+        }
+        ARMv5 {
+            dimension "abi"
+            versionCode = 1
+        }
+        ARMv6nofpu {
+            dimension "abi"
+            versionCode = 2
+        }
+        ARMv6fpu {
+            dimension "abi"
+            versionCode = 3
+        }
+        ARMv7 {
+            dimension "abi"
+            versionCode = 4
+        }
+        x86 {
+            dimension "abi"
+            versionCode = 5
+        }
+        MIPS {
+            dimension "abi"
+            versionCode = 6
+        }
+        ARMv8 {
+            dimension "abi"
+            versionCode = 7
+        }
+        x86_64 {
+            dimension "abi"
+            versionCode = 8
+        }
+        MIPS64 {
+            dimension "abi"
+            versionCode = 9
+        }
+    }
+
+    // make per-variant version code
+//    applicationVariants.all { variant ->
+//        def manifestParser = new com.android.builder.core.DefaultManifestParser()
+//        // get the version code of each flavor
+//        def vlcVersion = manifestParser.getVersionName(android.sourceSets.main.manifest.srcFile)
+//        def targetVersion = variant.productFlavors.get(0).versionCode
+//        def abiVersion = variant.productFlavors.get(1).versionCode
+//
+//        // set the composite code
+//        variant.mergedFlavor.versionCode = targetVersion * 10000000 + manifestParser.getVersionCode(android.sourceSets.main.manifest.srcFile) + abiVersion
+//        variant.mergedFlavor.versionName = vlcVersion
+//
+//        //Custom APK name
+//        variant.outputs.each { output ->
+//            def outputName = "VLC-Android-"
+//            if (!variant.productFlavors.get(0).name.equals("vanilla"))
+//                outputName += variant.productFlavors.get(0).name.toUpperCase()+"-"
+//            outputName += vlcVersion+"-"+variant.productFlavors.get(1).name+".apk"
+//            output.outputFile = new File(output.outputFile.parentFile, outputName);
+//        }
+//    }
+
+    sourceSets.main {
+        manifest.srcFile 'AndroidManifest.xml'
+        java.srcDirs = ['src']
+        resources.srcDirs = ['src']
+        aidl.srcDirs = ['src']
+        renderscript.srcDirs = ['src']
+        res.srcDirs = ['res']
+        assets.srcDirs = ['assets']
+    }
+    sourceSets.release {
+        manifest.srcFile 'release/AndroidManifest.xml'
+    }
+    sourceSets.test {
+        java.srcDirs = ['test']
+    }
+    sourceSets.vanilla {
+        manifest.srcFile 'vanilla/AndroidManifest.xml'
+        java.srcDirs = ['vanilla/src']
+        res.srcDirs = ['vanilla/res']
+    }
+    sourceSets.tv {
+        manifest.srcFile 'tv/AndroidManifest.xml'
+        java.srcDirs = ['tv/src']
+        resources.srcDirs = ['tv/src']
+        aidl.srcDirs = ['tv/src']
+        renderscript.srcDirs = ['tv/src']
+        res.srcDirs = ['tv/res']
+        assets.srcDirs = ['tv/assets']
+    }
+    sourceSets.chrome {
+        manifest.srcFile 'chrome/AndroidManifest.xml'
+    }
+}
+
+dependencies {
+    compile project(':libvlc')
+    compile 'com.android.support:appcompat-v7:23.1.0'
+    compile 'com.android.support:cardview-v7:23.1.0'
+    compile 'com.android.support:recyclerview-v7:23.1.0'
+    compile 'com.android.support:design:23.1.0'
+    compile 'com.android.support:support-annotations:23.1.0'
+    compile 'com.android.support:preference-v7:23.1.0'
+    tvCompile 'com.android.support:leanback-v17:23.1.0'
+    tvCompile 'com.android.support:preference-leanback-v17:23.1.0'
+    testCompile 'junit:junit:4.12'
+}
+
+def buildTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+def hostName() {
+    return System.getProperty("user.name") + "@" + InetAddress.localHost.hostName
+}
+
+def revision() {
+    def code = new ByteArrayOutputStream()
+//    exec {
+//        commandLine 'git', 'rev-parse', '--short', 'HEAD'
+//        standardOutput = code
+//    }
+    return code.toString()
+}

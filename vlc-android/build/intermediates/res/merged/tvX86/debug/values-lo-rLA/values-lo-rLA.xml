@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ກັບໄປໜ້າຫຼັກ"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ຂຶ້ນເທິງ"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ໂຕເລືອກອື່ນ"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"ແລ້ວໆ"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ເບິ່ງທັງຫມົດ"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"ເລືອກແອັບຯ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ປິດ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ເປີດ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ຊອກຫາ"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ລຶບຂໍ້ຄວາມຊອກຫາ"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ຊອກຫາ"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ຊອກຫາ"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ສົ່ງການຊອກຫາ"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ຊອກຫາດ້ວຍສຽງ"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"ແບ່ງປັນກັບ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"ແບ່ງ​ປັນ​ກັບ​ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ຫຍໍ້"</string>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"​ປິດ​ນຳ​ໃຊ້​ຄຳ​ບັນ​ຍາຍ​ແບບ​ປິດ"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"​ເປີດ​ນຳ​ໃຊ້​​ຄຳ​ບັນ​ຍາຍ​ແບບ​ປິດ"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"ເລື່ອນ​ໄປ​ໜ້າ"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"ໄປ​ໜ້າແບບໄວ %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"​ປິດ​ນຳ​ໃຊ້​ການຫຼິ້ນ​ດ້ວຍຄຸນ​ນະ​ພາບ​ສູງ"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"​ເປີດນຳ​ໃຊ້​ການຫຼິ້ນ​ດ້ວຍຄຸນ​ນະ​ພາບ​ສູງ"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"ຄຳສັ່ງ​ເພີ່ມເຕີມ"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"ຢຸດຊົ່ວຄາວ"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"ຫຼິ້ນ"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"ຫຼິ້ນ​ຊ້ຳ​ທັງ​ໝົດ"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"​ບໍ່ຫຼິ້ນ​ຊ້ຳ"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"ຫຼິ້ນ​ຊ້ຳ"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"​ຣີ​ວາຍກັບ"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"​ກັບ​ຄືນ %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"​ປິດ​ນຳ​ໃຊ້​ການ​ສະຫຼັບ"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"​ເປີດ​ນຳ​ໃຊ້​ການ​ສະຫຼັບ"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"​ຂ້າມ​ໄປ​ຕໍ່"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"​ຂ້າມ​ໄປ​ກ່ອນ​ໜ້າ"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"​ຢຸດ​ຊີ້​ໂປ້​ລົງ​ແລ້ວ"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"ເລືອກ​ຊີ້​ໂປ້​ລົງ​ແລ້ວ"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"​ຢຸດ​ເລືອກ​ຍົກ​ໂປ້​ແລ້ວ"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"​ເລືອກ​ຍົກ​ໂປ້​ແລ້ວ"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"ຊອກຫາ"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"ເວົ້າ​ເພື່ອ​ຊອກ​ຫາ"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"ຊອກ​ຫາ <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"ເວົ້າ​ເພື່ອ​ຊອກ​ຫາ <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"ຊອກ​ຫາ​ຄຳ​ສັ່ງ"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

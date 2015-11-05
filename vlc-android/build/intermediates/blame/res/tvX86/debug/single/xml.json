@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/searchable.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/preferences_adv.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/preferences_adv.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/preferences_ui.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/preferences_ui.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/widget_provider_w.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/widget_provider_w.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/preferences_dev.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/preferences_dev.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/preferences.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/widget_provider_b.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/widget_provider_b.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/xml/preferences_perf.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/xml/preferences_perf.xml"
+    }
+]

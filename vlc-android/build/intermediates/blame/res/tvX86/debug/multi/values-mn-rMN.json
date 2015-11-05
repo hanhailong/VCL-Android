@@ -1,0 +1,938 @@
+[
+    {
+        "outputFile": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/values-mn-rMN/values-mn-rMN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 112,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 112,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 107,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 107,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 122,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 122,
+                        "endOffset": 630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 99,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 635,
+                        "endColumn": 99,
+                        "endOffset": 730
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 112,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 112,
+                        "endOffset": 843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 86,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 848,
+                        "endColumn": 86,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 105,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endColumn": 105,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 111,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 111,
+                        "endOffset": 1148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 81,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1153,
+                        "endColumn": 81,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 81,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1235,
+                        "endColumn": 81,
+                        "endOffset": 1312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 81,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1317,
+                        "endColumn": 81,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 108,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endColumn": 108,
+                        "endOffset": 1503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 103,
+                    "endOffset": 1421
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1508,
+                        "endColumn": 103,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1426,
+                    "endColumn": 96,
+                    "endOffset": 1518
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1612,
+                        "endColumn": 96,
+                        "endOffset": 1704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1523,
+                    "endColumn": 107,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1709,
+                        "endColumn": 107,
+                        "endOffset": 1812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 100,
+                    "endOffset": 1727
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1817,
+                        "endColumn": 100,
+                        "endOffset": 1913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1732,
+                    "endColumn": 102,
+                    "endOffset": 1830
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1918,
+                        "endColumn": 102,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1835,
+                    "endColumn": 121,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2021,
+                        "endColumn": 121,
+                        "endOffset": 2138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 96,
+                    "endOffset": 2049
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2143,
+                        "endColumn": 96,
+                        "endOffset": 2235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2054,
+                    "endColumn": 106,
+                    "endOffset": 2156
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 341,
+                        "endColumn": 106,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2161,
+                    "endColumn": 100,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 100,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 135,
+                    "endOffset": 2393
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 135,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2398,
+                    "endColumn": 131,
+                    "endOffset": 2525
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 131,
+                        "endOffset": 812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2530,
+                    "endColumn": 110,
+                    "endOffset": 2636
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 817,
+                        "endColumn": 110,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2641,
+                    "endColumn": 129,
+                    "endOffset": 2766
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 129,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2771,
+                    "endColumn": 128,
+                    "endOffset": 2895
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 128,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2900,
+                    "endColumn": 123,
+                    "endOffset": 3019
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1187,
+                        "endColumn": 123,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3024,
+                    "endColumn": 104,
+                    "endOffset": 3124
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1311,
+                        "endColumn": 104,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3129,
+                    "endColumn": 96,
+                    "endOffset": 3221
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 96,
+                        "endOffset": 1508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3226,
+                    "endColumn": 92,
+                    "endOffset": 3314
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1513,
+                        "endColumn": 92,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3319,
+                    "endColumn": 104,
+                    "endOffset": 3419
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1606,
+                        "endColumn": 104,
+                        "endOffset": 1706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3424,
+                    "endColumn": 109,
+                    "endOffset": 3529
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1711,
+                        "endColumn": 109,
+                        "endOffset": 1816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3534,
+                    "endColumn": 103,
+                    "endOffset": 3633
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1821,
+                        "endColumn": 103,
+                        "endOffset": 1920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3638,
+                    "endColumn": 99,
+                    "endOffset": 3733
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endColumn": 99,
+                        "endOffset": 2020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3738,
+                    "endColumn": 115,
+                    "endOffset": 3849
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2025,
+                        "endColumn": 115,
+                        "endOffset": 2136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3854,
+                    "endColumn": 117,
+                    "endOffset": 3967
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2141,
+                        "endColumn": 117,
+                        "endOffset": 2254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3972,
+                    "endColumn": 113,
+                    "endOffset": 4081
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2259,
+                        "endColumn": 113,
+                        "endOffset": 2368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4086,
+                    "endColumn": 110,
+                    "endOffset": 4192
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2373,
+                        "endColumn": 110,
+                        "endOffset": 2479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4197,
+                    "endColumn": 109,
+                    "endOffset": 4302
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2484,
+                        "endColumn": 109,
+                        "endOffset": 2589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4307,
+                    "endColumn": 114,
+                    "endOffset": 4417
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2594,
+                        "endColumn": 114,
+                        "endOffset": 2704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4422,
+                    "endColumn": 122,
+                    "endOffset": 4540
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2709,
+                        "endColumn": 122,
+                        "endOffset": 2827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4545,
+                    "endColumn": 113,
+                    "endOffset": 4654
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2832,
+                        "endColumn": 113,
+                        "endOffset": 2941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4659,
+                    "endColumn": 120,
+                    "endOffset": 4775
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2946,
+                        "endColumn": 120,
+                        "endOffset": 3062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4780,
+                    "endColumn": 82,
+                    "endOffset": 4858
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3067,
+                        "endColumn": 82,
+                        "endOffset": 3145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4863,
+                    "endColumn": 93,
+                    "endOffset": 4952
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3150,
+                        "endColumn": 93,
+                        "endOffset": 3239
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4957,
+                    "endColumn": 132,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3244,
+                        "endColumn": 132,
+                        "endOffset": 3372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 155,
+                    "endOffset": 5241
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3377,
+                        "endColumn": 155,
+                        "endOffset": 3528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5246,
+                    "endColumn": 90,
+                    "endOffset": 5332
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3533,
+                        "endColumn": 90,
+                        "endOffset": 3619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5337,
+                    "endColumn": 100,
+                    "endOffset": 5433
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/values-mn-rMN/values-mn-rMN.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2240,
+                        "endColumn": 100,
+                        "endOffset": 2336
+                    }
+                }
+            }
+        ]
+    }
+]

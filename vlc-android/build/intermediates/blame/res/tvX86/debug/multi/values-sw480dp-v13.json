@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/values-sw480dp-v13/values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/values-sw480dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 50,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 52,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/values-sw480dp/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 42,
+                        "endColumn": 52,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 44,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/values-sw480dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 44,
+                        "endOffset": 186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 60,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/values-sw480dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endColumn": 60,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]

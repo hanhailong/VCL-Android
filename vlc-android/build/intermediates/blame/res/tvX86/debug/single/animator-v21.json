@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_playback_bg_fade_in.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_playback_bg_fade_in.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_playback_description_fade_out.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_playback_description_fade_out.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_guidedstep_slide_out_to_end.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_guidedstep_slide_out_to_end.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_playback_bg_fade_out.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_playback_bg_fade_out.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_guidedstep_slide_out_to_start.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_guidedstep_slide_out_to_start.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_guidedstep_slide_in_from_start.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_guidedstep_slide_in_from_start.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/animator-v21/lb_guidedstep_slide_in_from_end.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.0/res/animator-v21/lb_guidedstep_slide_in_from_end.xml"
+    }
+]

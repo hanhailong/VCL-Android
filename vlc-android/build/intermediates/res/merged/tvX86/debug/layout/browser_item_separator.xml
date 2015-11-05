@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+    
+                                          
+                 
+                        
+                           
+           
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:tag="layout/browser_item_separator_0" xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView
+            android:id="@+id/separator_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:tag="binding_1"/>
+    </LinearLayout>
+         

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/preference-leanback/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="lb_preference_decor_list_background">#263238</color>
+    <color name="lb_preference_item_primary_text_color_default">#EEEEEE</color>
+    <color name="lb_preference_item_primary_text_color_disabled">#4DEEEEEE</color>
+    <color name="lb_preference_item_secondary_text_color_default">#B3EEEEEE</color>
+    <color name="lb_preference_item_secondary_text_color_disabled">#4DEEEEEE</color>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/preference-leanback/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="lb_preference_category_height">40dp</dimen>
+    <dimen name="lb_preference_category_text_size">12sp</dimen>
+    <dimen name="lb_preference_decor_elevation">6dp</dimen>
+    <dimen name="lb_preference_decor_title_container_elevation">2dp</dimen>
+    <dimen name="lb_preference_decor_title_margin_end">56dp</dimen>
+    <dimen name="lb_preference_decor_title_margin_start">24dp</dimen>
+    <dimen name="lb_preference_decor_title_margin_top">27dp</dimen>
+    <dimen name="lb_preference_decor_title_text_height">64dp</dimen>
+    <dimen name="lb_preference_decor_title_text_size">20sp</dimen>
+    <dimen name="lb_preference_item_icon_margin_end">16dp</dimen>
+    <dimen name="lb_preference_item_icon_size">32dp</dimen>
+    <dimen name="lb_preference_item_padding_end">56dp</dimen>
+    <dimen name="lb_preference_item_padding_start">24dp</dimen>
+    <dimen name="lb_preference_item_primary_text_margin_bottom">2dp</dimen>
+    <dimen name="lb_preference_item_primary_text_size">14sp</dimen>
+    <dimen name="lb_preference_item_secondary_text_size">12sp</dimen>
+    <dimen name="lb_preference_item_text_space_bottom">13dp</dimen>
+    <dimen name="lb_preference_item_text_space_top">14dp</dimen>
+    <dimen name="lb_settings_pane_width">360dp</dimen>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/preference-leanback/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="LeanbackPreference">
+        <item name="android:layout">@layout/leanback_preference</item>
+    </style>
+    <style name="LeanbackPreference.Category">
+        <item name="android:layout">@layout/leanback_preference_category</item>
+        <!-- The title should not dim if the category is disabled, instead only the preference children should dim. -->
+        <item name="android:shouldDisableView">false</item>
+        <item name="android:selectable">false</item>
+    </style>
+    <style name="LeanbackPreference.CheckBoxPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_checkbox</item>
+    </style>
+    <style name="LeanbackPreference.DialogPreference">
+        <item name="android:positiveButtonText">@android:string/ok</item>
+        <item name="android:negativeButtonText">@android:string/cancel</item>
+    </style>
+    <style name="LeanbackPreference.DialogPreference.EditTextPreference">
+        <item name="android:dialogLayout">@layout/preference_dialog_edittext</item>
+    </style>
+    <style name="LeanbackPreference.Information">
+        <item name="android:layout">@layout/leanback_preference_information</item>
+        <item name="android:enabled">false</item>
+        <item name="android:shouldDisableView">false</item>
+    </style>
+    <style name="LeanbackPreference.PreferenceScreen">
+    </style>
+    <style name="LeanbackPreference.SwitchPreference">
+        <item name="android:widgetLayout">@layout/preference_widget_switch</item>
+        <item name="android:switchTextOn">@string/v7_preference_on</item>
+        <item name="android:switchTextOff">@string/v7_preference_off</item>
+    </style>
+    <style name="LeanbackPreference.SwitchPreferenceCompat">
+        <item name="android:widgetLayout">@layout/preference_widget_switch_compat</item>
+        <item name="android:switchTextOn">@string/v7_preference_on</item>
+        <item name="android:switchTextOff">@string/v7_preference_off</item>
+    </style>
+    <style name="PreferenceFragmentList.Leanback">
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+    </style>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/preference-leanback/res/values/themes.xml -->
+    <eat-comment/>
+    <style name="PreferenceThemeOverlay.v14.Leanback">
+        <item name="preferenceScreenStyle">@style/LeanbackPreference.PreferenceScreen</item>
+        <item name="preferenceCategoryStyle">@style/LeanbackPreference.Category</item>
+        <item name="preferenceStyle">@style/LeanbackPreference</item>
+        <item name="preferenceInformationStyle">@style/LeanbackPreference.Information</item>
+        <item name="checkBoxPreferenceStyle">@style/LeanbackPreference.CheckBoxPreference</item>
+        <item name="switchPreferenceCompatStyle">@style/LeanbackPreference.SwitchPreferenceCompat</item>
+        <item name="switchPreferenceStyle">@style/LeanbackPreference.SwitchPreference</item>
+        <item name="dialogPreferenceStyle">@style/LeanbackPreference.DialogPreference</item>
+        <item name="editTextPreferenceStyle">@style/LeanbackPreference.DialogPreference.EditTextPreference</item>
+        <item name="preferenceFragmentListStyle">@style/PreferenceFragmentList.Leanback</item>
+    </style>
+</resources>

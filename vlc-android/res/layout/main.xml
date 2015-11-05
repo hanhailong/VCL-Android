@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <org.videolan.vlc.widget.HackyDrawerLayout
+        android:id="@+id/root_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:nextFocusLeft="@+id/ml_menu_search"
+        android:nextFocusRight="@+id/ml_menu_search"
+        android:nextFocusUp="@+id/ml_menu_search"
+        android:nextFocusDown="@+id/ml_menu_search"
+        android:nextFocusForward="@+id/ml_menu_search">
+
+        <com.android.widget.SlidingPaneLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:vlc="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/pane"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            vlc:overhangSize="60dp" >
+
+            <org.videolan.vlc.widget.ContentLinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="?attr/actionBarSize"
+                    android:background="?attr/background_actionbar" />
+
+                <FrameLayout
+                    android:id="@+id/fragment_placeholder"
+                    android:layout_width="fill_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <RelativeLayout
+                    android:id="@+id/info_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="20dp"
+                    android:visibility="gone" >
+
+                    <ProgressBar
+                        android:id="@+id/info_progress"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:progressDrawable="@drawable/progress" />
+
+                    <TextView
+                        android:id="@+id/info_text"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dip"
+                        android:layout_marginRight="5dip"
+                        android:shadowColor="#CC000000"
+                        android:shadowDx="1"
+                        android:shadowDy="1"
+                        android:shadowRadius="1.5"
+                        android:singleLine="true"
+                        android:textColor="#FFFFFFFF" />
+                </RelativeLayout>
+
+                <View
+                    android:id="@+id/audio_player_filling"
+                    android:layout_width="fill_parent"
+                    android:layout_height="60dp"
+                    android:visibility="gone" />
+            </org.videolan.vlc.widget.ContentLinearLayout>
+
+            <FrameLayout
+                android:id="@+id/audio_player"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+        </com.android.widget.SlidingPaneLayout>
+
+        <!-- The navigation drawer -->
+        <ListView
+            android:id="@+id/sidelist"
+            android:layout_width="240dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:focusable="true"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0dp"
+            android:paddingTop="?attr/actionBarSize"
+            android:nextFocusForward="@id/sidelist"
+            android:nextFocusUp="@id/sidelist"
+            android:nextFocusDown="@+id/settings"
+            android:nextFocusLeft="@id/sidelist"
+            android:nextFocusRight="@id/sidelist"
+            android:background="?attr/background_menu" >
+        </ListView>
+
+    </org.videolan.vlc.widget.HackyDrawerLayout>
+
+    <include layout="@layout/toolbar"/>
+</merge>

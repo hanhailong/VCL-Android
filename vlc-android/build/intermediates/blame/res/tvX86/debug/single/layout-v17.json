@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/layout-v17/preference_information_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v14/23.1.0/res/layout-v17/preference_information_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/layout-v17/preference_category_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v14/23.1.0/res/layout-v17/preference_category_material.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/tvX86/debug/layout-v17/preference_material.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/exploded-aar/com.android.support/preference-v14/23.1.0/res/layout-v17/preference_material.xml"
+    }
+]

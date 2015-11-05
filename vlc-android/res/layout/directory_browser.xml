@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <org.videolan.vlc.widget.SwipeRefreshLayout
+        android:id="@+id/swipeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <org.videolan.vlc.widget.ContextMenuRecyclerView
+                android:id="@+id/network_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"/>
+            <TextView
+                android:id="@+id/android:empty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/network_connection_needed"/>
+        </FrameLayout>
+    </org.videolan.vlc.widget.SwipeRefreshLayout>
+
+    <include layout="@layout/shadow_top"/>
+
+    <android.support.design.widget.FloatingActionButton
+        app:borderWidth="0dp"
+        app:rippleColor="@color/orange50"
+        android:id="@+id/fab_add_custom_dir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_fab_add"
+        android:tint="@color/grey50"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:visibility="gone"
+        android:layout_margin="16dp"/>
+</RelativeLayout>

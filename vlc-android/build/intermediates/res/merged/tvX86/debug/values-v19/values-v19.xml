@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="time_stretching_default">true</bool>
+    <style name="Theme.LeanbackBase" parent="android:Theme.Holo.NoActionBar.TranslucentDecor">
+        <item name="playbackProgressPrimaryColor">@color/lb_playback_progress_color_no_theme</item>
+        <item name="playbackControlsIconHighlightColor">@color/lb_playback_icon_highlight_no_theme</item>
+        <item name="defaultBrandColor">@color/lb_default_brand_color</item>
+
+        <item name="android:windowOverscan">true</item>
+        <item name="guidedStepTheme">@style/Theme.Leanback.GuidedStep</item>
+    </style>
+    <style name="Theme.VLC.Player" parent="Theme.VLC.Player.19"/>
+    <style name="Theme.VLC.Player.19" parent="Theme.VLC.Player.7">
+        <item name="android:windowTranslucentStatus">true</item>">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

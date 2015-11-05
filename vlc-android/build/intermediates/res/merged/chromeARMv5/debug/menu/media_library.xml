@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:vlc="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/ml_menu_save"
+        android:icon="@drawable/ic_menu_bookmark_outline_w"
+        android:title="@string/clear_history"
+        android:nextFocusDown="@+id/ml_menu_search"
+        android:visible="false"
+        vlc:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/ml_menu_clean"
+        android:icon="@drawable/ic_trash_normal_w"
+        android:title="@string/clear_history"
+        android:nextFocusDown="@id/ml_menu_search"
+        android:visible="false"
+        vlc:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/ml_menu_search"
+        android:icon="@drawable/ic_menu_search"
+        vlc:actionViewClass="android.support.v7.widget.SearchView"
+        android:title="@string/searchable_hint"
+        android:nextFocusDown="@id/ml_menu_search"
+        vlc:showAsAction="always|collapseActionView"/>
+    <item
+        android:id="@+id/ml_menu_last_playlist"
+        android:icon="@drawable/ic_menu_lastplaylist"
+        android:title="@string/last_playlist"
+        android:nextFocusDown="@id/ml_menu_last_playlist"
+        vlc:showAsAction="ifRoom" />
+    <item
+        android:title="@string/sortby"
+        android:icon="@drawable/ic_menu_sort"
+        android:id="@+id/ml_menu_sortby"
+        vlc:showAsAction="ifRoom">
+        <menu>
+            <item
+                android:id="@+id/ml_menu_sortby_name"
+                android:title="@string/sortby_name" />
+            <item
+                android:id="@+id/ml_menu_sortby_length"
+                android:title="@string/sortby_length" />
+            <item
+                android:id="@+id/ml_menu_sortby_date"
+                android:title="@string/sortby_date" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/ml_menu_refresh"
+        android:icon="@drawable/ic_menu_refresh"
+        android:title="@string/refresh"
+        android:nextFocusDown="@id/ml_menu_refresh"/>
+    <item
+        android:id="@+id/ml_menu_equalizer"
+        android:icon="@drawable/ic_menu_equalizer"
+        android:title="@string/equalizer" />
+    <item
+        android:title="@string/clear_history"
+        android:visible="false"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:id="@+id/search_clear_history" />
+</menu>

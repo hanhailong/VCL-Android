@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/audio_list_browser.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/audio_list_browser.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/video_player.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/video_player.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/video_group.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/video_group.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/video_list.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/video_list.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/directory_view_file.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/directory_view_file.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/media_library.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/media_library.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/directory_custom_dir.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/directory_custom_dir.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/audio_player.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/audio_player.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/history_view.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/history_view.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/directory_view_dir.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/directory_view_dir.xml"
+    },
+    {
+        "merged": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/build/intermediates/res/merged/chromeX86/debug/menu/audiosub_tracks.xml",
+        "source": "/Users/HanHailong/android-workspace/VLCDemo/vlc-android/res/menu/audiosub_tracks.xml"
+    }
+]

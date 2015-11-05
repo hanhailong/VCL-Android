@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="time_stretching_default">true</bool>
+    <style name="Theme.VLC.Player" parent="Theme.VLC.Player.19"/>
+    <style name="Theme.VLC.Player.19" parent="Theme.VLC.Player.7">
+        <item name="android:windowTranslucentStatus">true</item>">
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

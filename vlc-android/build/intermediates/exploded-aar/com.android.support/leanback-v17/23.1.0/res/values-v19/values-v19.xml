@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/leanback/res/values-v19/themes.xml -->
+    <eat-comment/>
+    <style name="Theme.LeanbackBase" parent="android:Theme.Holo.NoActionBar.TranslucentDecor">
+        <item name="playbackProgressPrimaryColor">@color/lb_playback_progress_color_no_theme</item>
+        <item name="playbackControlsIconHighlightColor">@color/lb_playback_icon_highlight_no_theme</item>
+        <item name="defaultBrandColor">@color/lb_default_brand_color</item>
+
+        <item name="android:windowOverscan">true</item>
+        <item name="guidedStepTheme">@style/Theme.Leanback.GuidedStep</item>
+    </style>
+</resources>

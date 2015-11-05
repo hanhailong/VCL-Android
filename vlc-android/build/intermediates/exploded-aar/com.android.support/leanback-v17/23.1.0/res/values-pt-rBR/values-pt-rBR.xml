@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/usr/local/google/buildbot/repo_clients/https___googleplex-android.googlesource.com_a_platform_manifest.git/mnc-supportlib-release/frameworks/support/v17/leanback/res/values-pt-rBR/strings.xml -->
+    <eat-comment/>
+    <string msgid="4541442045214207774" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="3097220783222910245" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="6133362019475930048" name="lb_playback_controls_closed_captioning_disable">"Desativar closed captioning"</string>
+    <string msgid="2429655367176440226" name="lb_playback_controls_closed_captioning_enable">"Ativar closed captioning"</string>
+    <string msgid="8569951318244687220" name="lb_playback_controls_fast_forward">"Avançar"</string>
+    <string msgid="1058753672110224526" name="lb_playback_controls_fast_forward_multiplier">"Avançar %1$dX"</string>
+    <string msgid="8637371582779057866" name="lb_playback_controls_high_quality_disable">"Desativar alta qualidade"</string>
+    <string msgid="202415780019335254" name="lb_playback_controls_high_quality_enable">"Ativar alta qualidade"</string>
+    <string msgid="2330770008796987655" name="lb_playback_controls_more_actions">"Mais ações"</string>
+    <string msgid="6189521112079849518" name="lb_playback_controls_pause">"Pausar"</string>
+    <string msgid="731953341987346903" name="lb_playback_controls_play">"Reproduzir"</string>
+    <string msgid="6730354406289599000" name="lb_playback_controls_repeat_all">"Repetir tudo"</string>
+    <string msgid="87476947476529036" name="lb_playback_controls_repeat_none">"Não repetir"</string>
+    <string msgid="3285202316452203619" name="lb_playback_controls_repeat_one">"Repetir uma"</string>
+    <string msgid="2227196334132350684" name="lb_playback_controls_rewind">"Retroceder"</string>
+    <string msgid="1640629531440849942" name="lb_playback_controls_rewind_multiplier">"Retroceder %1$dX"</string>
+    <string msgid="8388150597335115226" name="lb_playback_controls_shuffle_disable">"Desativar reprodução aleatória"</string>
+    <string msgid="1099874107835264529" name="lb_playback_controls_shuffle_enable">"Ativar reprodução aleatória"</string>
+    <string msgid="2946499493161095772" name="lb_playback_controls_skip_next">"Pular próxima"</string>
+    <string msgid="2326801832933178348" name="lb_playback_controls_skip_previous">"Pular anterior"</string>
+    <string msgid="4498041193172964797" name="lb_playback_controls_thumb_down">"Desmarcar não gostei"</string>
+    <string msgid="2936020280629424365" name="lb_playback_controls_thumb_down_outline">"Marcar não gostei"</string>
+    <string msgid="6530420347129222601" name="lb_playback_controls_thumb_up">"Desmarcar gostei"</string>
+    <string msgid="1577637924003500946" name="lb_playback_controls_thumb_up_outline">"Marcar gostei"</string>
+    <string msgid="8325490927970116252" name="lb_search_bar_hint">"Pesquisar"</string>
+    <string msgid="5511270823320183816" name="lb_search_bar_hint_speech">"Fale para pesquisar"</string>
+    <string msgid="1627103380996590035" name="lb_search_bar_hint_with_title">"Pesquisar <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="2712734639766312034" name="lb_search_bar_hint_with_title_speech">"Fale para pesquisar no <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5651268540267663887" name="orb_search_action">"Ação de pesquisa"</string>
+</resources>
