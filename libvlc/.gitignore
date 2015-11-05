@@ -1,6 +1,5 @@
 bin/
 gen/
-libs/
 obj/
 jni/libvlcjni-modules.h
 .settings
