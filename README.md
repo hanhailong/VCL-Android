@@ -4,7 +4,7 @@ VLC很强大，支持字幕，支持锁定屏幕，支持跳转到某个具体�
 
 这是编译好的VCL-Android版本，打了四种架构的so包，armeabi-v7a、armeabi、x86、mips
 
-##注意事项：
+## 注意事项：
 
 有的同学在用AS编译Demo的时候，会报错找不到*PreferencesActivity*和*BasePreferenceFragment*的错误，你只需要切换下AS左下角的build variants,切换到vanilla开头，让AS重新编译下就好了！！！切记切记！！
 
